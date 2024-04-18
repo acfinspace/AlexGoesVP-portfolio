@@ -1,0 +1,11 @@
+/*Effects for blur on images*/
+
+/*Add the blur to the picture. Add class="img-blur" to img tag.*/
+.img-blur {
+    filter: blur(25px);
+}
+
+/*Function to remove the blur when the pointer hovers over the pictture.*/
+.img-blur:hover {
+    filter: none;
+}
