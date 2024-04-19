@@ -1,4 +1,4 @@
-# A'lihn Raha Portfolio
+# AlexGoesVP Portfolio
 
 The website is the portfolio/best of for virtual photographer AlexGoesVP ([X](https://twitter.com/AlexGoesVP), [Instagram](https://www.instagram.com/alexgoesvp/), [LinkTree](https://linktr.ee/alexgoesvp)).
 
@@ -12,6 +12,5 @@ Accessible at: https://acfinspace.github.io/AlexGoesVP-portfolio
 I would like to thank you the following people, in no particular order:
 
 S.V. for the support.
-
 
 
