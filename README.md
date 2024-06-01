@@ -13,4 +13,6 @@ I would like to thank you the following people, in no particular order:
 
 S.V. for the support.
 
+Em for the robots.txt.
+
 
