@@ -3,14 +3,11 @@
 # --------------------------
 User-agent: * 
 Allow: /index.html
-Disallow: /articles/
-Disallow: /images/
-Disallow: /resources.html
-Disallow: /about.html
-Disallow: /contact.html
-Disallow: /privacy.html
-Noindex: /articles/
-Noindex: /images/
+Disallow: /main_gallery.html
+Disallow: /game_galleries
+Disallow: /assets_vp
+Noindex: /game_galleries
+Noindex: /assets_vp
 
 
 # Unwelcome AI robots:
