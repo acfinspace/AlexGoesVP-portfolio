@@ -13,6 +13,6 @@ I would like to thank you the following people, in no particular order:
 
 S.V. for the support.
 
-Em for the robots.txt.
+Em and [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) for the robots.txt.
 
 
